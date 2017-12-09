@@ -1,0 +1,8 @@
+Average run time for Richardson was: 0.0077 seconds
+Average run time for Dufort was: 0.0084 seconds
+Average run time for Crank was: 0.0121 seconds
+Average run time for Laasonen (dt = 0.01h) was: 0.011 seconds
+Average run time for Laasonen (dt = 0.025h) was: 0.0052 seconds
+Average run time for Laasonen (dt = 0.05h) was: 0.0035 seconds
+Average run time for Laasonen (dt = 0.1h) was: 0.0029 seconds
+

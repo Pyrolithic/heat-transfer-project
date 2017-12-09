@@ -1,0 +1,8 @@
+dx: 0.05
+dt: 0.025
+xstart: 0
+xend: 1
+tsur0: 300
+tsur1: 300
+tin: 100
+d: 0.1
